@@ -141,7 +141,7 @@ a {
 .content-section {
   padding-top: 40px; }
 
-.download-section {
+.shows-section {
   width: 100%;
   padding: 50px 0;
   color: white;
@@ -166,7 +166,7 @@ a {
 @media (min-width: 767px) {
   .content-section {
     padding-top: 160px; }
-  .download-section {
+  .shows-section {
     padding: 100px 0; }
   #map {
     height: 350px;
