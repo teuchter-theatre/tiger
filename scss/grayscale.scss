@@ -167,7 +167,7 @@ a {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding-top: 40px;
 }
 
 .download-section {
@@ -182,6 +182,10 @@ a {
     background-size: cover;
 }
 
+.riddle p {
+  margin-bottom: 20px;
+}
+
 #map {
     width: 100%;
     height: 200px;
@@ -190,7 +194,7 @@ a {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 250px;
+        padding-top: 160px;
     }
     .download-section {
         padding: 100px 0;
